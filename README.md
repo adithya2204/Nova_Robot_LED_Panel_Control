@@ -39,9 +39,7 @@ This repository contains the code and documentation for the LED panel control sy
 
 ## Acknowledgments
 
-- LED control and assembly: [Your Name]
+- LED control and assembly: Adithya Pothula
 - Project developed at Amrita School of Engineering, Amritapuri Campus
 
 ## License
-
-Specify your preferred license here (e.g., MIT, GPL, etc.).
